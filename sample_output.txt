@@ -1,0 +1,22 @@
+1. [MCQ] What is the main goal of Artificial Intelligence (AI)?
+   a) Building websites  
+   b) Managing databases  
+   c) Creating intelligent machines  
+   d) Editing videos  
+   Answer: c) Creating intelligent machines
+
+2. [MCQ] Which of the following is NOT an AI application?
+   a) Speech recognition  
+   b) Natural language processing  
+   c) Painting pictures manually  
+   d) Machine vision  
+   Answer: c) Painting pictures manually
+
+...
+
+Short Answer Questions:
+6. Name two industries where AI is commonly used.  
+   Answer: Healthcare and Finance
+
+7. What does NLP stand for in AI?  
+   Answer: Natural Language Processing
