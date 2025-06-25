@@ -1,0 +1,2 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of intelligent behavior. AI applications include expert systems, natural language processing, speech recognition, and machine vision. AI is widely used in healthcare, education, finance, and robotics.
+
